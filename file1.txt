@@ -1,1 +1,10 @@
-bdnbs
+mkdir h
+cd h
+git --version
+git init
+git status
+git add .
+git status
+git remote origin "path"
+git commit -m "xvd"
+git push -u origin master

@@ -5,6 +5,6 @@ git init
 git status
 git add .
 git status
-git remote origin "path"
+git remote add origin "path"
 git commit -m "xvd"
 git push -u origin master
